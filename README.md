@@ -1,8 +1,7 @@
 # Case studies of migraine : Clinical Trials
 <hr>
-<h3>Installation Guid</h3>
-<br>
-<h5>Please follow below instructions</h5><br>
+<h3>Installation Guid</h3><br>
+<h4>Please follow below instructions</h4><br>
 1. Rename <b>.env.example</b> as <b>.env</b> file which is in root directory<br>
 2. use the command:<b>"composer install"</b> from the terminal in root directory.<br>
 3. Create new database in MySql with the name <b>"clinical_trial"</b> or any other name.<br>
